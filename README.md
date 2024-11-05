@@ -1,10 +1,10 @@
-# watchdog
+# Watchdog
 A Watchdog program that monitors critical sections of client applications and restarts if needed
 
 
 ## Overview
 
-The WatchDog project provides a mechanism to ensure that the critical sections of a client's process remain "safe". It does this by monitoring the client process and restarting it if the process terminates unexpectedly.
+The Watchdog project provides a mechanism to ensure that the critical sections of a client's process remain "safe". It does this by monitoring the client process and restarting it if the process terminates unexpectedly.
 
 The project is written in C on Linux environment.
 
